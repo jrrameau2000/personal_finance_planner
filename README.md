@@ -1,6 +1,6 @@
 # personal_finance_planner
 
-Created a portfolio that contains a mix of crypto currency and shares. This project uses the MonteCarlo simulation to analyze the possible value of the portfolio after 30 years.
+Created a portfolio that contains a mix of crypto (Ethereum and Bitcoin) and market securities(stocks and bonds). This project uses the MonteCarlo simulation to analyze the possible value of the portfolio after 30 years.
 
 
 ## Historical Data of the securities
