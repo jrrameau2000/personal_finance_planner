@@ -16,3 +16,6 @@ Created a portfolio that contains a mix of crypto (Ethereum and Bitcoin) and mar
 
 ## Graph displaying cumulative return of portfolio over 500 simulations
 ![image](https://user-images.githubusercontent.com/79224741/117724364-a32e9980-b1b1-11eb-9664-84220a4c1e7c.png)
+
+## Portfolio returns immense return over 30 years
+![image](https://user-images.githubusercontent.com/79224741/118293913-2bf64f80-b4a8-11eb-8391-843be4d87e04.png)
